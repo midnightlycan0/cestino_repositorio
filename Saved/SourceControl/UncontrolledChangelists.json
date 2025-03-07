@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Horizontal.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlataform_Vertical.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlataform_Horizontal_Y.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Horizontal_X.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Horizontal_Y.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Vetical.uasset",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/personaje_complete.umap",
+				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/NewMap.umap"
+			]
+		}
+	]
+}
