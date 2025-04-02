@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/21/25 12:20:17
+=======
+﻿Log file open, 03/06/25 12:32:31
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 03/06/25 12:32:31
 >>>>>>> Stashed changes
@@ -16,7 +20,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=9308)
+=======
+LogWindows: Started CrashReportClient (pid=18860)
+LogWindows: Warning: Failed to set completion port for job object "UE.ShaderCompileWorker.JobGroup": El parámetro no es correcto.
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=18860)
 LogWindows: Warning: Failed to set completion port for job object "UE.ShaderCompileWorker.JobGroup": El parámetro no es correcto.
@@ -32,6 +41,7 @@ LogTrace: Initializing trace...
 LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogTrace: Display: Display Control listening on port 1985
 LogTrace: Finished trace initialization.
 LogCsvProfiler: Display: Metadata set : platform="Windows"
@@ -43,6 +53,8 @@ LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogTrace: Display: Display Control listening on port 40436
 LogTrace: Finished trace initialization.
 LogCsvProfiler: Display: Metadata set : platform="Windows"
@@ -52,6 +64,9 @@ LogCsvProfiler: Display: Metadata set : engineversion="5.5.3-39772772+++UE5+Rele
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.3323] "
 LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600G with Radeon Graphics"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -61,6 +76,7 @@ LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\DELL\Documents\Unreal Projects\cestino_repositorio\MyProject6.uproject"""
 LogCsvProfiler: Display: Metadata set : loginid="5a8a23224f2a26bbf544f89789e29f64"
 LogCsvProfiler: Display: Metadata set : llm="0"
@@ -68,11 +84,16 @@ LogStats: Stats thread started at 1.339720
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogCsvProfiler: Display: Metadata set : commandline="" C:\UE_5.5\cestino_repositorio\MyProject6.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="d6de39194bcc6ae2e571d48aaad51ba8"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 0.476420
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -80,6 +101,7 @@ LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: 
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
          Session CrashGUID >   UECC-Windows-A358B97C4AB6210C2E7021964A21DFC5
@@ -105,12 +127,18 @@ LogConfig: No local boot hotfix file found at: [../../../cestino_repositorio/Sav
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../cestino_repositorio/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 >>>>>>> Stashed changes
+=======
+         Session CrashGUID >   UECC-Windows-7EDCE8A940D964D9883D47A55C4D9F98
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../cestino_repositorio/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+>>>>>>> Stashed changes
 LogAudio: Display: Pre-Initializing Audio Device Manager...
 LogAudio: Display: AudioInfo: 'OPUS' Registered
 LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
 LogAudio: Display: AudioInfo: 'OGG' Registered
 LogAudio: Display: AudioInfo: 'ADPCM' Registered
 LogAudio: Display: AudioInfo: 'PCM' Registered
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogAudio: Display: AudioInfo: 'BINKA' Registered
@@ -124,6 +152,8 @@ LogPluginManager: Looking for enabled plugins target receipt
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/DELL/Documents/Unreal Projects/cestino_repositorio/Binaries/Win64/*.target
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
@@ -148,6 +178,9 @@ LogAssetRegistry: Display: Asset registry cache read as 35.5 MiB from ../../../c
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Mounting Engine plugin Bridge
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -161,6 +194,7 @@ LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin UbaController
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin WorldMetrics
@@ -193,6 +227,8 @@ LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin SequencerScripting
 LogPluginManager: Mounting Engine plugin TemplateSequence
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin XGEController
@@ -234,6 +270,9 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -242,6 +281,7 @@ LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidPermission
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin AudioWidgets
@@ -351,6 +391,8 @@ LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
 LogPluginManager: Mounting Engine plugin AppleImageUtils
 LogPluginManager: Mounting Engine plugin AppleMoviePlayer
@@ -417,6 +459,9 @@ LogPluginManager: Mounting Engine plugin ACLPlugin
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin ControlRig
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -426,9 +471,12 @@ LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin DeformerGraph
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin LiveLink
 LogPluginManager: Mounting Engine plugin IKRig
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin IKRig
@@ -465,6 +513,9 @@ LogPluginManager: Mounting Engine plugin UMGWidgetPreview
 LogPluginManager: Mounting Engine plugin UVEditor
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -475,6 +526,7 @@ LogPluginManager: Mounting Engine plugin ChaosCaching
 LogPluginManager: Mounting Engine plugin ChaosEditor
 LogPluginManager: Mounting Engine plugin ChaosNiagara
 LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
@@ -522,6 +574,8 @@ LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin CharacterAI
@@ -570,6 +624,9 @@ PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -603,6 +660,7 @@ LogStudioTelemetry: Started StudioTelemetry Session
 LogInit: ExecutableName: UnrealEditor.exe
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Build: ++UE5+Release-5.5-CL-38445549
 LogInit: Platform=WindowsEditor
 LogInit: MachineId=5a8a23224f2a26bbf544f89789e29f64
@@ -615,6 +673,8 @@ LogInit: Compiled (64-bit): Nov 28 2024 00:55:04
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogInit: Build: ++UE5+Release-5.5-CL-39772772
 LogInit: Platform=WindowsEditor
 LogInit: MachineId=d6de39194bcc6ae2e571d48aaad51ba8
@@ -625,6 +685,9 @@ LogInit: Net CL: 37670630
 LogInit: OS: Windows 11 (24H2) [10.0.26100.3323] (), CPU: AMD Ryzen 5 5600G with Radeon Graphics         , GPU: NVIDIA GeForce GTX 1660 Ti
 LogInit: Compiled (64-bit): Feb  5 2025 22:32:48
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -635,7 +698,11 @@ LogInit: Branch Name: ++UE5+Release-5.5
 LogInit: Command Line: 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: C:/UE_5.5/Engine/Binaries/Win64/
+>>>>>>> Stashed changes
 =======
 LogInit: Base Directory: C:/UE_5.5/Engine/Binaries/Win64/
 >>>>>>> Stashed changes
@@ -682,6 +749,7 @@ LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B):
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
 LogDevObjectVersion:   Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 3.30ms
@@ -857,6 +925,8 @@ LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand too
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 1.28ms
 LogConfig: Branch 'Bridge' had been unloaded. Reloading on-demand took 0.19ms
 LogConfig: Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.19ms
@@ -1030,6 +1100,9 @@ LogConfig: Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.18
 LogConfig: Branch 'ConcertMain' had been unloaded. Reloading on-demand took 0.18ms
 LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.18ms
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -1054,6 +1127,7 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2025.03.21-18.20.20:596][  0]LogConfig: Set CVar [[r.VSync:0]]
@@ -2361,6 +2435,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [2025.03.06-18.32.32:107][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2025.03.06-18.32.32:107][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
 [2025.03.06-18.32.32:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -3300,6 +3376,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.06-18.33.29:947][808]LogExit: Exiting.
 [2025.03.06-18.33.29:969][808]Log file closed, 03/06/25 12:33:29
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
