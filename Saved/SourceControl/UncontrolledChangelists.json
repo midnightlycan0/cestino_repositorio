@@ -3,32 +3,82 @@
 	"changelists": [
 		{
 			"guid": "00000000000000000000000000000000",
-			"description": "Lista de cambios no controlados predeterminada",
+			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/personaje_complete_4.umap",
-				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/blueprintss/BPvillian.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Horizontal.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlataform_Vertical.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlataform_Horizontal_Y.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Horizontal_X.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Horizontal_Y.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/BP_MovingPlatform_Vetical.uasset",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/personaje_complete.umap",
-				"C:/Users/c805h/OneDrive/Documentos/Unreal Projects/cestino_repositorio/Content/NewMap.umap"
-=======
-				"C:/UE_5.5/cestino_repositorio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
->>>>>>> Stashed changes
-=======
-				"C:/UE_5.5/cestino_repositorio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
->>>>>>> Stashed changes
-=======
-				"C:/UE_5.5/cestino_repositorio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
->>>>>>> Stashed changes
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/blueprintss/bppersonaje_si.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/9/3S/8QS4M79ZFO47NM9KXC02BM.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/3/UI/OMF33B0Y8NFUD6VNH9OIKD.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/71/XRBYTZMQS08FNZNW00EKPR.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/1E/BJCYHQ8V608WON9NS9OKIN.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/6/7B/PLDKW3PFHORNILUOU21BBD.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/C/B2/K84KUA3HI7EUBJNR6S61QR.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/7/X5/MDZI7MGT2YGJ5490C7TJ3K.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/6/7K/5MFPAM1Y60PA82CYMN2D67.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/7F/3MRWS90I43ZE8LK6477FPT.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/4/QL/Y4S6CWEAHBASDAKVF70AYS.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/35/95ZSU8CULDXLCYQ1OB2A0B.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/7/RG/B127R49AQO1B45O7JWL1QV.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/E/JX/OB044BPP9CB0U0X94TM2EQ.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/2/71/VAMAYT9IRPJ9VUNZ5RLA2W.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/XS/E0EHZV2NI57UGFZG3FER6N.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/8/PB/S05AM6BLPWYEFS8ULV4QY0.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/8/XW/UGFR8HI889MBZ63BFWRZAJ.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/4/0M/1OJOQBOGMZGCRKDMCVVDG2.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/0/LP/P1XPCL4DJZ82VDOVPDCNYP.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/5/TS/WFIBBA5Q14VODGJB661ANE.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/2/N9/TPBSWW06U2SHYV5QWF0UCT.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/5/S4/QXM51CQ58PGXYMKENQD75S.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/0/OX/73W5KU8XZJ0AV3X6CSZ71B.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/X8/X7WLZRU3649YJMODQ35CHY.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/7/TL/70KQCHC625FU8PZ0A0PORS.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/E/0W/SOMA1PZT3TTLBKPXEA2I2N.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/E/BM/H8MFONOHT527EOT7TRHCHV.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/8/ML/IUDZRTDW2F4WXPEYA5KJD3.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/86/AP51AVS1OFL7IF906IN6PD.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/8K/WQ8ES7WY7P8AILQ6582VD5.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/5/LB/KVSEW1OCGFTTVL8FRKYTD6.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/G9/SB1CWUPJL2US2N0JXZ8LSW.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/2W/905U97HDADTEYR0NXEXUAI.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/2/CL/F0P01RGXY8S2TB357JH42I.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/NW/PVDP6P4D10YSLAF08VS61R.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/XJ/JCPV55ZMSUE4MZBZM3EXQC.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/Z6/ZD727K0XYHH58RUV8DLY2D.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/E/OL/6W9SU6PY8J0XX0RN9JYUN9.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/SL/EY8DYPSW5EKGAFKJ8PC4OD.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/3/D0/AU8XUD76GRDCHYWJWSCQDD.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/YU/YZ2K3FKC0A66JGX7U6YB54.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/5/9S/CRFG7X5M2Q1BZAK5H0J3J9.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/9/VA/04WIGX9CFGEC27W3FBKNJT.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/C/WO/NRCEJEL71SUJWT89OPWYOG.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/5/DF/SA7E5WYBCUKQB1Q5DZ5IZP.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/3/SM/1OCUF1SV5EB13IDWJQCRDG.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/8Y/RY4BH6RJ5P0DC55GKIO9K3.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/3/HO/0PL681ZJS5H9P9WHMJBPNY.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/0/XG/EDYSOJYF4UJ2N42GXFJA8M.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/ME/O56RSP40FZIYKFRRL1CY82.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/C/J7/29HVL1NMQBC3N5QU0KIGJ8.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/2/0F/AFI4JPMM7L7TYUA7SFYLCZ.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/4/66/SCX7ZUOUTH9SH1MHFEER9W.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/D/YL/P6CFNMQU2904GFT9NMLZCA.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/8/UJ/3R47AR0KDOOJ6SP11MD29M.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/UY/H5ZGOV9HIAQG9QWUGD5XVP.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/I7/S4Y5QFF2H9MYF1TU2JDSSJ.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/I8/VF7O87Q9LPT7N5DLKG519E.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/3/WB/WJEDRE3Z25CAIZ49UGBC10.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/GJ/5JH65ZC05EG552K179DYY9.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/B/ZJ/0BFTNQY35NTA5FN5DBN8R7.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/C/55/WK2XO5E5TK5J7STGZ8357F.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/0/IG/KY5IUHEIDR447TFLMVGNCN.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/7/WX/7Z65C49CSKYOGGCG4K6F71.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/9C/KY1KPKWZFGX5RL0Y7OG39P.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/1/QS/BZXYKSUKFFR9QY9KIX4JGG.uasset",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/NewMap.umap",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/personaje.umap",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/personaje_complete.umap",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/personaje_complete_2.umap",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/personaje_complete_3.umap",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/cestino.umap",
+				"C:/Users/DELL/Documents/Unreal Projects/cestino_repositorio/Content/__ExternalActors__/cestino/5/10/EWLTFEF2WI7VYMAXV2S6HI.uasset"
 			]
 		}
 	]
